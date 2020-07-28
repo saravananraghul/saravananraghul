@@ -56,7 +56,7 @@
 ### - Blogs ✍
 
 <p align="center">
-  <a href="https://medium.com/@saravananvijayamuthu" <img src="https://img.icons8.com/ios-filled/50/000000/medium-monogram.png"/>  </a>
+  <a href="https://medium.com/@saravananvijayamuthu"> <img src="https://img.icons8.com/ios-filled/50/000000/medium-monogram.png"/>  </a>
 </p>
 
 
