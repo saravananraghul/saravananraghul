@@ -17,7 +17,7 @@
 <br />
 
 
-### I'm 20 years old Self-taught Full-Stack developer from India.
+### I'm 20 years old Self-taught Full-Stack developer.
 
 
 #### - 🛸 Learning GraphQl  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>,Devops <code><img height="30" src="https://img.icons8.com/color/48/000000/jenkins.png"/></code>
