@@ -1,69 +1,32 @@
-### Hi there, I'm [Saravanan Vijayamuthu!](https://sarvi.azurewebsites.net/) 👋.
-
-
-<br/>
-<a href="https://sarvi.azurewebsites.net/">
-  <img align="left" alt="Saravanan Vijayamuthu| Webiste" width="32px" src="https://img.icons8.com/material/90/000000/internet.png"/>
-</a>
-<a href="https://twitter.com/WebEngineering2">
-  <img align="left" alt="Saravanan Vijayamuthu| Twitter" width="32px" src="https://img.icons8.com/material/90/000000/twitter--v1.png"/>
-</a>
-<a href="https://www.linkedin.com/in/saravanan-vm/">
-  <img align="left" alt="Linkedin" width="32px" src="https://img.icons8.com/material/90/000000/linkedin.png"/>
-</a>
-<a href="https://www.instagram.com/saravanan.vijayamuthu/">
-  <img align="left" alt="Instagram" width="32px" src="https://img.icons8.com/material/90/000000/instagram-new--v1.png"/>
-</a>
-<br />
-
-
-### I'm 20 years old Self-taught Full-Stack developer.
-
-
-#### - 🛸 Learning GraphQl  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>,Devops <code><img height="30" src="https://img.icons8.com/color/48/000000/jenkins.png"/></code>
-
-**I am Into , =^.^=**
-
-**Web Development, SEO, System Design, Container Management**
-<br />
-
-<br />
-
-*************
-
-<br />
-
-
-### - Languages and Tools...
-
-<p align="center">
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"  alt="Java"  style="vertical-align:top; margin: 4px">
-  <img src="https://img.icons8.com/color/48/000000/python.png"  alt="Python"  style="vertical-align:top; margin:4px">
-  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="Html" style="vertical-align:top; margin:4px">
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="Css" style="vertical-align:top; margin:4px">
-  <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt-"Bootstrap" style="vertical-align:top; margin:4px">
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="Javascript" style="vertical-align:top; margin:4px">
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" style="vertical-align:top; margin:4px">
-  <img src="https://img.icons8.com/color/48/000000/npm.png" alt="Npm" style="vertical-align:top; margin:4px">
-  <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt ="Postgresql"  style="vertical-align:top; margin:4px">
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="Mongodb"  style="vertical-align:top; margin:4px">
-  <img src="https://img.icons8.com/fluent/48/000000/github.png" alt="Github"  style="vertical-align:top; margin:4px">
-  <img src="https://img.icons8.com/color/48/000000/heroku.png" alt="Heroku"  style="vertical-align:top; margin:4px">
-  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" style="vertical-align:top; margin:4px">
-  <img src="https://img.icons8.com/color/48/000000/azure-1.png" alt="Azure" style="vertical-align:top; margin:4px">
+<h1 align="center">Hey, I'm <a href ="https://sarvi.azurewebsites.net/">Saravanan Vijayamuthu</a> 👋</h1>
+<h3 align="center">Learning, Growing and Exploring the World</h3>
+<p align="center">  
+<a href="https://sarvi.azurewebsites.net/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/google.svg" alt="Saravanan Vijayamuthu" height="30" width="25" /></a>
+<a href="https://www.instagram.com/saravanan.vijayamuthu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Saravanan Vijayamuthu" height="30" width="25" /></a>
+<a href="https://www.linkedin.com/in/saravanan-vm/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Saravanan Vijayamuthu" height="30" width="25" /></a>
+<a href="https://medium.com/@saravananvijayamuthu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="Saravanan Vijayamuthu" height="30" width="25" /></a>  
 </p>
+<p align="center">  <img src="https://komarev.com/ghpvc/?username=SaravananVijayamuthu" alt="Saravanan Vijayamuthu"/></p>
 
-### - Blogs ✍
+- 💻 Currently working on **Virtual Medical Consultation**
 
-<p align="center">
-  <a href="https://medium.com/@saravananvijayamuthu"> <img src="https://img.icons8.com/ios-filled/50/000000/medium-monogram.png"/>  </a>
+- 🎯 I’m currently learning **Graphql, DevOps**
+
+- 💌 Reach me here **instagram.com/saravanan.vijayamuthu**
+
+
+<hr><p align="center">
+<img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>  
+<img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="33" height="33"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
+<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="33" height="33"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 </p>
-
-
-
-***********************************
-
-#### Thank You-🙏🏼
-
-
-⭐️ From [Saravanan Vijayamuthu!](https://sarvi.azurewebsites.net/)
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrsid-31&layout=compact&hide=html&theme=dark" alt="mrsid-31" /> <br><br><br>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrsid-31&show_icons=true&theme=dark&count_private=true&include_all_commits=true" alt="mrsid-31" />
+</p>
