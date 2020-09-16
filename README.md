@@ -22,11 +22,22 @@
 <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="33" height="33"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> 
+<img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original.svg" alt="expressjs" width="40" height="40"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original.svg" alt="amazonwebservices" width="40" height="40"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" alt="docker" width="40" height="40"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/heroku/heroku-original.svg" alt="heroku" width="40" height="40"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
+<img src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_2c52befe936478c77a89de8a141d07e7/zoho-creator.png" alt="Zoho Creator" width="40" height="40"/>
 </p>
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrsid-31&layout=compact&hide=html&theme=dark" alt="mrsid-31" /> <br><br><br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrsid-31&show_icons=true&theme=dark&count_private=true&include_all_commits=true" alt="mrsid-31" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaravananVijayamuthu&layout=compact&hide=html&theme=dark" alt="Saravanan Vijayamuthu" /> <br><br><br>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=SaravananVijayamuthu&show_icons=true&theme=dark&count_private=true&include_all_commits=true" alt="Saravanan Vijayamuthu" />
 </p>
