@@ -1,10 +1,10 @@
 <h1 align="center">Hey, I'm <a href ="https://sarvi.azurewebsites.net/">Saravanan Vijayamuthu</a> 👋</h1>
 <h3 align="center">Learning, Growing and Exploring the World</h3>
 <p align="center">  
-<a href="https://sarvi.azurewebsites.net/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/google.svg" alt="Saravanan Vijayamuthu" height="30" width="25" /></a>
-<a href="https://www.instagram.com/saravanan.vijayamuthu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Saravanan Vijayamuthu" height="30" width="25" /></a>
-<a href="https://www.linkedin.com/in/saravanan-vm/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Saravanan Vijayamuthu" height="30" width="25" /></a>
-<a href="https://medium.com/@saravananvijayamuthu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="Saravanan Vijayamuthu" height="30" width="25" /></a>  
+<a href="https://sarvi.azurewebsites.net/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/google.svg" alt="Saravanan Vijayamuthu" height="30" width="25" /></a>
+<a href="https://www.instagram.com/saravanan.vijayamuthu" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Saravanan Vijayamuthu" height="30" width="25" /></a>
+<a href="https://www.linkedin.com/in/saravanan-vm/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Saravanan Vijayamuthu" height="30" width="25" /></a>
+<a href="https://medium.com/@saravananvijayamuthu" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="Saravanan Vijayamuthu" height="30" width="25" /></a>  
 </p>
 <p align="center">  <img src="https://komarev.com/ghpvc/?username=SaravananVijayamuthu" alt="Saravanan Vijayamuthu"/></p>
 
