@@ -39,5 +39,5 @@
 </p>
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaravananVijayamuthu&layout=compact&hide=html&theme=tokyonight" alt="Saravanan Vijayamuthu" /> <br><br><br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=SaravananVijayamuthu&show_icons=true&theme=dark&count_private=true&include_all_commits=true" alt="Saravanan Vijayamuthu" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=SaravananVijayamuthu&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Saravanan Vijayamuthu" />
 </p>
