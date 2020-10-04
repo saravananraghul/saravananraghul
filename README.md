@@ -41,3 +41,4 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaravananVijayamuthu&layout=compact&hide=html&theme=tokyonight" alt="Saravanan Vijayamuthu" /> <br><br><br>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=SaravananVijayamuthu&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Saravanan Vijayamuthu" />
 </p>
+<a href='https://ko-fi.com/C0C12CBIQ' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi3.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
