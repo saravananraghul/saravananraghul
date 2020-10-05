@@ -41,6 +41,6 @@
 </p>
 <p align="center">
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaravananVijayamuthu&hide_border=1&layout=compact&hide=html,php&langs_count=8&theme=radical" alt="Saravanan Vijayamuthu" /> <br><br><br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=SaravananVijayamuthu&show_icons=true&hide_border=1&theme=radical&count_private=true&include_all_commits=true" alt="Saravanan Vijayamuthu" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaravananVijayamuthu&layout=compact&hide=html,php&langs_count=8&theme=radical" alt="Saravanan Vijayamuthu" /> <br><br><br>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=SaravananVijayamuthu&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Saravanan Vijayamuthu" />
 </p>
