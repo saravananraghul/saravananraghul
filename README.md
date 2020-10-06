@@ -14,8 +14,10 @@
 
 - 💌 Reach me here **instagram.com/saravanan.vijayamuthu**
 
-<a href='https://ko-fi.com/C0C12CBIQ' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi3.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
+<p align="center">
+<a href='https://ko-fi.com/C0C12CBIQ' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi3.png?v=5' border='5' alt='Buy Me a Coffee at ko-fi.com' /></a>
+</p>
 
 <hr><p align="center">
 <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
