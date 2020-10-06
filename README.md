@@ -40,7 +40,13 @@
 <img src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_2c52befe936478c77a89de8a141d07e7/zoho-creator.png" alt="Zoho Creator" width="50" height="40"/>
 </p>
 
+
+
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaravananVijayamuthu&layout=compact&hide=html,php&theme=radical" alt="Saravanan Vijayamuthu" /> <br><br><br>
+<a href="#" onclick="return false;">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaravananVijayamuthu&theme=radical&layout=compact&count_private=true&hide=jupyter%20notebook,php,asp,css&langs_count=10" />
+</a><br><br><br>
+<a href="#" onclick="return false;">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=SaravananVijayamuthu&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Saravanan Vijayamuthu" />
+</a>
 </p>
