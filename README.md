@@ -36,6 +36,7 @@
 <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original.svg" alt="react" width="40" height="40"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original.svg" alt="amazonwebservices" width="40" height="40"/>
+<img src="https://graphql.org/img/logo.svg" alt="GraphQL" width="40" height="40"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" alt="docker" width="40" height="40"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/heroku/heroku-original.svg" alt="heroku" width="40" height="40"/>
