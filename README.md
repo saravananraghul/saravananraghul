@@ -8,7 +8,7 @@
 </p>
 <p align="center">  <img src="https://komarev.com/ghpvc/?username=SaravananVijayamuthu" alt="Saravanan Vijayamuthu"/></p>
 
-- 💻 Currently working as FSD Intern **@DigiLocker**
+- 💻 Currently working as FSD Intern **@Guvi** | EX FSD Intern **@DigiLocker**
 
 - 🎯 I’m currently learning **Graphql, DevOps**
 
