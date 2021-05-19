@@ -74,8 +74,8 @@ InfoSec      3 hrs 3 mins    ████▓░░░░░░░░░░░░
 
 If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
-<a href="https://www.buymeacoffee.com/saravananvm" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="https://www.buymeacoffee.com/saravananvm" target="_blank"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="https://www.hackthebox.eu/home/users/profile/562216"><img align="right" alt="GIF" src="http://www.hackthebox.eu/badge/image/562216?raw=true" width="auto" height="auto" /></a>
 
-📈 My GitHub Stats
-
+<br/>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SaravananVijayamuthu&show_icons=true&theme=gotham" alt="Saravanan Vijayamuthu" />
