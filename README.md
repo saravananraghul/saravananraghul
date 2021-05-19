@@ -1,6 +1,6 @@
 ### 
 
-![Yogesh BK](https://github.com/bkyogesh28/bkyogesh28/blob/main/I'm%20Yogesh%20BK.gif?raw=true)
+![Yogesh BK](https://raw.githubusercontent.com/SaravananVijayamuthu/SaravananVijayamuthu/master/SaravananVijayamuthu.jpg)
 
 <a href="https://discord.com/users/658684252283469835">
   <img align="left" alt="Saravanan Vijayamuthu | Discord" width="22px" src="https://github.com/Adithya-adi-Menon/Hosting/blob/master/assets/discord.svg" />
